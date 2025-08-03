@@ -1,3 +1,4 @@
 A=5
 B=21
-print(A+B)
+c=2
+print(A+B-c)
